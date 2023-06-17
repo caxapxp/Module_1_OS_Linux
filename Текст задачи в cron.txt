@@ -1,0 +1,1 @@
+* 8 * * * bash Task_3_Logwatch

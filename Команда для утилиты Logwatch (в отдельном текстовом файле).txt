@@ -1,0 +1,1 @@
+logwatch --detail Med --mailto M4241158@yandex.ru --service sshd vsftpd xrdp --range yesterday
